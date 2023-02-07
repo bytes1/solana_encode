@@ -1,5 +1,7 @@
 # DEFI HUB DAO
 
+## The bridge between users and the world of DeFi <br>
+
 <img src="images/1.jpg"> <br>
 
 ## summary
